@@ -1,0 +1,23 @@
+/* Catppuccin Frappé — Stremio Web Theme
+   https://github.com/catppuccin/catppuccin */
+
+:root {
+  /* Base: #303446  Mantle: #292c3c  Crust: #232634 */
+  --theme-bg-1: rgb(48, 52, 70);
+  --theme-bg-2: rgb(41, 44, 60);
+  --theme-fg-1: rgba(198, 208, 245, 0.9);
+  --theme-fg-2: rgb(48, 52, 70);
+
+  /* Mauve accent, Green secondary, Yellow tertiary, Blue quaternary */
+  --theme-accent-1: rgb(202, 158, 230);
+  --theme-accent-2: rgb(166, 209, 137);
+  --theme-accent-3: rgb(229, 200, 144);
+  --theme-accent-4: rgb(140, 170, 238);
+
+  --theme-overlay: rgba(115, 121, 148, 0.2);
+  --theme-modal-bg: rgb(41, 44, 60);
+  --theme-outer-glow: 0px 0px 15px rgba(202, 158, 230, 0.28);
+
+  --theme-warning: rgb(239, 159, 118);
+  --theme-danger: rgb(231, 130, 132);
+}

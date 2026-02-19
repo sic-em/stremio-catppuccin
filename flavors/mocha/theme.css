@@ -1,0 +1,23 @@
+/* Catppuccin Mocha — Stremio Web Theme
+   https://github.com/catppuccin/catppuccin */
+
+:root {
+  /* Base: #1e1e2e  Mantle: #181825  Crust: #11111b */
+  --theme-bg-1: rgb(30, 30, 46);
+  --theme-bg-2: rgb(24, 24, 37);
+  --theme-fg-1: rgba(205, 214, 244, 0.9);
+  --theme-fg-2: rgb(30, 30, 46);
+
+  /* Mauve accent, Green secondary, Yellow tertiary, Blue quaternary */
+  --theme-accent-1: rgb(203, 166, 247);
+  --theme-accent-2: rgb(166, 227, 161);
+  --theme-accent-3: rgb(249, 226, 175);
+  --theme-accent-4: rgb(137, 180, 250);
+
+  --theme-overlay: rgba(108, 112, 134, 0.2);
+  --theme-modal-bg: rgb(24, 24, 37);
+  --theme-outer-glow: 0px 0px 15px rgba(203, 166, 247, 0.28);
+
+  --theme-warning: rgb(250, 179, 135);
+  --theme-danger: rgb(243, 139, 168);
+}

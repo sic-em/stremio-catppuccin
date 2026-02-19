@@ -1,0 +1,23 @@
+/* Catppuccin Macchiato — Stremio Web Theme
+   https://github.com/catppuccin/catppuccin */
+
+:root {
+  /* Base: #24273a  Mantle: #1e2030  Crust: #181926 */
+  --theme-bg-1: rgb(36, 39, 58);
+  --theme-bg-2: rgb(30, 32, 48);
+  --theme-fg-1: rgba(202, 211, 245, 0.9);
+  --theme-fg-2: rgb(36, 39, 58);
+
+  /* Mauve accent, Green secondary, Yellow tertiary, Blue quaternary */
+  --theme-accent-1: rgb(198, 160, 246);
+  --theme-accent-2: rgb(166, 218, 149);
+  --theme-accent-3: rgb(238, 212, 159);
+  --theme-accent-4: rgb(138, 173, 244);
+
+  --theme-overlay: rgba(110, 115, 141, 0.2);
+  --theme-modal-bg: rgb(30, 32, 48);
+  --theme-outer-glow: 0px 0px 15px rgba(198, 160, 246, 0.28);
+
+  --theme-warning: rgb(245, 169, 127);
+  --theme-danger: rgb(237, 135, 150);
+}

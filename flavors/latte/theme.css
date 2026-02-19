@@ -1,0 +1,23 @@
+/* Catppuccin Latte — Stremio Web Theme
+   https://github.com/catppuccin/catppuccin */
+
+:root {
+  /* Base: #eff1f5  Mantle: #e6e9ef  Crust: #dce0e8 */
+  --theme-bg-1: rgb(239, 241, 245);
+  --theme-bg-2: rgb(230, 233, 239);
+  --theme-fg-1: rgba(76, 79, 105, 0.9);
+  --theme-fg-2: rgb(239, 241, 245);
+
+  /* Mauve accent, Green secondary, Yellow tertiary, Blue quaternary */
+  --theme-accent-1: rgb(136, 57, 239);
+  --theme-accent-2: rgb(64, 160, 43);
+  --theme-accent-3: rgb(223, 142, 29);
+  --theme-accent-4: rgb(30, 102, 245);
+
+  --theme-overlay: rgba(156, 160, 176, 0.12);
+  --theme-modal-bg: rgb(230, 233, 239);
+  --theme-outer-glow: 0px 0px 15px rgba(136, 57, 239, 0.22);
+
+  --theme-warning: rgb(254, 100, 11);
+  --theme-danger: rgb(210, 15, 57);
+}
