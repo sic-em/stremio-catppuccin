@@ -1,40 +1,35 @@
 {
   "$schema": "https://raw.githubusercontent.com/Stremio/stremio-web/development/themes/schema.json",
-  "id": "com.github.sic-em.stremio-theme-catppuccin",
+  "id": "com.github.sic-em.stremio-catppuccin",
   "name": "Catppuccin",
   "version": "1.0.0",
-  "description": "Soothing pastel theme for Stremio Web. Four flavors: Latte (light), Frappé, Macchiato, and Mocha (dark).",
+  "description": "Soothing pastel theme for Stremio Web.",
   "author": "sic-em",
-  "homepage": "https://github.com/sic-em/stremio-theme-catppuccin",
-  "preview": "flavors/mocha/preview.png",
+  "homepage": "https://github.com/sic-em/stremio-catppuccin",
   "flavors": [
     {
       "id": "latte",
       "name": "Latte",
       "isDark": false,
-      "css": "flavors/latte/theme.css",
-      "preview": "flavors/latte/preview.png"
+      "css": "flavors/latte/theme.css"
     },
     {
       "id": "frappe",
       "name": "Frappé",
       "isDark": true,
-      "css": "flavors/frappe/theme.css",
-      "preview": "flavors/frappe/preview.png"
+      "css": "flavors/frappe/theme.css"
     },
     {
       "id": "macchiato",
       "name": "Macchiato",
       "isDark": true,
-      "css": "flavors/macchiato/theme.css",
-      "preview": "flavors/macchiato/preview.png"
+      "css": "flavors/macchiato/theme.css"
     },
     {
       "id": "mocha",
       "name": "Mocha",
       "isDark": true,
-      "css": "flavors/mocha/theme.css",
-      "preview": "flavors/mocha/preview.png"
+      "css": "flavors/mocha/theme.css"
     }
   ]
 }
